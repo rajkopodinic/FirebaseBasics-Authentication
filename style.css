@@ -1,0 +1,25 @@
+
+.container {
+    background: #fff;
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 20%;
+  height: 100%;
+  width: 40%;
+}
+
+#btnLogin {
+    background-color: midnightblue;
+    color: white;
+}
+
+#btnSignUp {
+    color: midnightblue;
+    margin-left: 10px;
+}
+
+#btnLogOut {
+    color: white;
+    background-color: tomato;
+}
